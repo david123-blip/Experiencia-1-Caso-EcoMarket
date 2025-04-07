@@ -3,17 +3,14 @@ Repositorio del caso de estudio EcoMarket SPA para la Experiencia 1 Nombre:  Tom
 
 Experiencia-1-Caso-EcoMarket/
 ├── Informe/
-│   └── Informe-EcoMarket.pdf
+│   └──[informe (1).docx](https://github.com/user-attachments/files/19625433/informe.1.docx)
+
+
+
 ├── Presentacion/
-│   └── Presentacion-EcoMarket.pptx
-├── Diagramas/
-│   ├── Diagrama-Clases.drawio
-│   ├── Diagrama-CasosUso.drawio
-│   └── Diagrama-Despliegue.drawio
-├── Documentacion/
-│   └── Requerimientos.txt
+│   └── [Black and Gray Gradient Professional Presentation.pdf](https://github.com/user-attachments/files/19625417/Black.and.Gray.Gradient.Professional.Presentation.pdf)t
 ├── README.md
 
 
 
-[Black and Gray Gradient Professional Presentation.pdf](https://github.com/user-attachments/files/19625417/Black.and.Gray.Gradient.Professional.Presentation.pdf)
+
